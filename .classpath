@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.osgi_3.6.2.R36x_v20110210.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.osgi.source_3.6.2.R36x_v20110210.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.core.commands_3.6.0.I20100512-1500.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.core.commands.source_3.6.0.I20100512-1500.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.equinox.common_3.6.0.v20100503.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.equinox.common.source_3.6.0.v20100503.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.equinox.registry_3.5.0.v20100503.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.equinox.registry.source_3.5.0.v20100503.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.core.runtime_3.6.0.v20100505.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.core.runtime.source_3.6.0.v20100505.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.text_3.5.0.v20100601-1300.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.text_3.5.0.v20100601-1300.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.swt.win32.win32.x86_3.6.2.v3659c.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.swt.win32.win32.x86.source_3.6.2.v3659c.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.jface_3.6.2.M20110210-1200.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.jface.source_3.6.2.M20110210-1200.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.jface.text_3.6.1.r361_v20100825-0800.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.jface.text_3.6.1.r361_v20100825-0800.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.ui.workbench_3.6.2.M20110210-1200.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.ui.workbench.source_3.6.2.M20110210-1200.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/com.ibm.icu_4.2.1.v20100412.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/com.ibm.icu.source_4.2.1.v20100412.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.ui.forms_3.5.2.r36_v20100702.jar" sourcepath="D:/Program Files/eclipse-j2ee/plugins/org.eclipse.ui.forms_3.5.2.r36_v20100702.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="forms-1.3.0.jar" sourcepath="forms-1.3.0-src.zip"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/javaActiveRecord/activejdbc-1.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/javaActiveRecord/activejdbc-1.4.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/javaActiveRecord/activejdbc-instrumentation-1.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/javaActiveRecord/javalite-common-1.5-20120529.223708-8.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/slf4j-1.7.5/slf4j-api-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/slf4j-1.7.5/slf4j-simple-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/javassist-3.17.1-GA/javassist-3.17.1-GA/javassist.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/slf4j-1.7.5/log4j-over-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/slf4j-1.7.5/log4j-over-slf4j-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/slf4j-1.7.5/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/slf4j-1.7.5/slf4j-simple-1.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/JavaUserLib/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
